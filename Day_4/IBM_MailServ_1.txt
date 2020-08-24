@@ -1,0 +1,61 @@
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2020, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       148.163.128.0 - 148.163.159.255
+CIDR:           148.163.128.0/19
+NetName:        PROOFPOINT-NET-NORTH-AMERICA
+NetHandle:      NET-148-163-128-0-1
+Parent:         NET148 (NET-148-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS16509, AS22843, AS13916, AS26211
+Organization:   Proofpoint, Inc. (PROOF)
+RegDate:        2014-06-13
+Updated:        2020-05-29
+Comment:        -----BEGIN CERTIFICATE-----MIIDDjCCAfYCCQDlx2/zW8KJpzANBgkqhkiG9w0BAQsFADBJMQswCQYDVQQGEwJVUzELMAkGA1UECAwCQ0ExEjAQBgNVBAcMCVN1bm55dmFsZTEZMBcGA1UECgwQUHJvb2Zwb2ludCwgSW5jLjAeFw0xOTA5MTkxNTA2MTVaFw0zNDA5MTUxNTA2MTVaMEkxCzAJBgNVBAYTAlVTMQswCQYDVQQIDAJDQTESMBAGA1UEBwwJU3Vubnl2YWxlMRkwFwYDVQQKDBBQcm9vZnBvaW50LCBJbmMuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8mW90pOTCfhbsHnvVha0SwTPcKkVoHaz4zboFNfIf5QpSRVvuO2fQtXqxFpMwMy5HMecJve/Z9dz2JDjV9JMZtT5DX3kyrULdGpNbydt/c+bfmykysW4mr48IApmc3QRb1nJYTThwK6kqJ70YLkNeRjlJ0P03pj2x4vTJTv4i5Wy4YPStTTlAVwnXCVtZ7cewPvUoGOfu1RE+/jYyqlPkWe9AzFQQw8zh9Xc0KuieDzBc/Ziskg12yIe9bXXErTZggGCvUhWPaNxgEYQAYnzvBZh/Jj5/uCFbHCKQPtG2cCOa1BRHgkRXSvqKMtfeYR9on/mGai3tkwZxqnVBq0wFQIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQDuHinB0sU9FoQ+jCP7osAvQJeUhRc5FxsauAYoZYDXAtFNhFmmuyUJB/zpAQc+uZ7w1/8QHJjzHtsmG5zvukkI9GErdr4Q5IajoM4j7msrVnI29XPrLQDylLMkDUw5BP4V6JHHqwSndXSeS312ty2JCsK7Z0/bD63ot2Q2Guia9uXfZWN7M/la/j+rbE454fKsjzpa+BKeVFGPaCrnCgFZUHdaqa0qsjteKpOvlCXnjY3/UxkM/GNnPsG1iDwtxr19iiEjtBz1s/8M/MPoSn48pPvqy1ohhnnVhw9qlhhb0L0f55CGAWEWzdjBjkS1KklGal19rXwy7K4itcjBqIfz-----END CERTIFICATE-----
+Ref:            https://rdap.arin.net/registry//ip/148.163.128.0
+
+
+OrgName:        Proofpoint, Inc.
+OrgId:          PROOF
+Address:        892 Ross Drive
+City:           Sunnyvale
+StateProv:      CA
+PostalCode:     94089
+Country:        US
+RegDate:        2007-10-16
+Updated:        2020-03-17
+Ref:            https://rdap.arin.net/registry//entity/PROOF
+
+
+OrgAbuseHandle: PAA19-ARIN
+OrgAbuseName:   Proofpoint ARIN Abuse
+OrgAbusePhone:  +1-801-748-4494 
+OrgAbuseEmail:  abuse@proofpoint.com
+OrgAbuseRef:    https://rdap.arin.net/registry//entity/PAA19-ARIN
+
+OrgTechHandle: NETWO2061-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-408-517-4710 
+OrgTechEmail:  arin-management@proofpoint.com
+OrgTechRef:    https://rdap.arin.net/registry//entity/NETWO2061-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2020, American Registry for Internet Numbers, Ltd.
+#
+

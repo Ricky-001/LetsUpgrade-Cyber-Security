@@ -1,0 +1,82 @@
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.163.224.0 - 203.163.255.255'
+
+% Abuse contact for '203.163.224.0 - 203.163.255.255' is 'abuse@hathway.net'
+
+inetnum:        203.163.224.0 - 203.163.255.255
+netname:        HATHWAY-NET
+descr:          HATHWAY CABLE AND DATACOM LIMITED
+country:        IN
+org:            ORG-HCAD1-AP
+admin-c:        VM14-AP
+tech-c:         VM14-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-IN-HATHWAY
+mnt-routes:     MAINT-IN-HATHWAY
+mnt-irt:        IRT-HATHWAY-IN
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+last-modified:  2017-10-26T23:59:22Z
+source:         APNIC
+
+irt:            IRT-HATHWAY-IN
+address:        Trade World, B Wing, 10th Floor, Kamla Mills Compound,
+address:        Lower Parel,
+address:        Mumbai 400013
+e-mail:         abuse@hathway.net
+abuse-mailbox:  abuse@hathway.net
+admin-c:        VM14-AP
+tech-c:         VM14-AP
+auth:           # Filtered
+remarks:        abuse@hathway.net is invalid
+mnt-by:         MAINT-IN-HATHWAY
+last-modified:  2020-01-08T13:09:56Z
+source:         APNIC
+
+organisation:   ORG-HCAD1-AP
+org-name:       HATHWAY CABLE AND DATACOM LIMITED
+country:        IN
+address:        HATHWAY CABLE AND DATACOM LIMITED
+address:        "Rahejas", 4th Floor
+address:        Cnr Main Avenue & VP Road
+phone:          +91-22-26001306
+fax-no:         +91-22-26001307
+e-mail:         vijaym@hathway.net
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2017-10-27T12:55:04Z
+source:         APNIC
+
+person:         Vijay Menezes
+nic-hdl:        VM14-AP
+e-mail:         vijaym@hathway.net
+address:        Trade World, B Wing, 10th Floor, Kamla Mills Compound,
+address:        Lower Parel,
+address:        Mumbai 400013
+phone:          +91 022 56623333
+fax-no:         +91 022 24933355
+country:        IN
+mnt-by:         MAINT-IN-HATHWAY
+last-modified:  2008-09-04T07:29:19Z
+source:         APNIC
+
+% Information related to '203.163.246.0/24AS17488'
+
+route:          203.163.246.0/24
+descr:          Hathway IP over Cable Internet Access
+origin:         AS17488
+notify:         vijaym@hathway.net
+mnt-by:         MAINT-IN-HATHWAY
+last-modified:  2008-09-04T07:54:43Z
+source:         APNIC
+country:        IN
+
+% This query was served by the APNIC Whois Service version 1.88.15-SNAPSHOT (WHOIS-JP3)
+
+
