@@ -1,0 +1,11 @@
+CYBER SECURITY ESSENTIALS - DAY 2 - LET'S UPGRADE - ASSIGNMENT 1
+================================================================
+
+[Que] Create a network with 6 nodes and assign them into subnets using references from https://www.calculator.net/ip-subnet-calculator.html
+[Ans] Uploaded the "Subnetting_Assignment (CyberSecurity_Day_2).pkt" file
+
+[Que] Check if the nodes can communicate among themselves within a subnet
+[Ans] Yes
+
+[Que] Check if the nodes can communicate among themselves across subnets
+[Ans] No
