@@ -1,0 +1,3 @@
+Relevant files for the Assignment for Day 4 of Cyber Security Essentials conducted by Let's Upgrade
+[*] The PDF file contains the original Reports of the solutions
+[*] All other required files and logs are also present for reference
